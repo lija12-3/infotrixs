@@ -81,7 +81,7 @@ To deploy WordPress on AWS, follow these steps:
    sudo a2enmod rewrite
    sudo systemctl restart apache2
    ```
-
+![Screenshot 2023-09-09 100810](https://github.com/lija12-3/infotrixs/assets/105269384/d82271fa-2260-4125-b491-300666e21235)
 8. Visit `http://your_domain/wp-admin/install.php` in your browser and follow the instructions to complete the WordPress installation. You will need to enter the database name, username, password, and endpoint of your RDS instance.
 
 ## Usage
