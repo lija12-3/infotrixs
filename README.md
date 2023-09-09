@@ -1,6 +1,6 @@
 # infotrixs
 WordPress site over AWS using RDS
-Sure, I can help you with that. Here is a possible README file for your GitHub project that uses the codes you provided.
+
 
 # WordPress on AWS
 
