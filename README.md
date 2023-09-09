@@ -4,7 +4,7 @@ WordPress site over AWS using RDS
 
 # WordPress on AWS
 
-![AWS Logo](https://your-image-link.com/aws-logo.png)
+![image](https://github.com/lija12-3/infotrixs/assets/105269384/6f58169b-964f-4ccb-b33d-5f4da3f4995c)
 
 This project demonstrates how to deploy a WordPress site on AWS using EC2, RDS, and Apache.
 
