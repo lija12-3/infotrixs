@@ -25,6 +25,7 @@ Before you begin, ensure you have met the following requirements:
 - A security group for RDS with MySQL/Aurora (port 3306) access from the EC2 security group.
 - An RDS instance running MySQL or Aurora.
 - An EC2 instance running Ubuntu 20.04 instance type t2-micro.
+  ![image](https://github.com/lija12-3/infotrixs/assets/105269384/a086a3d1-4780-4be1-896b-acc21bf14568)
 
 ## Installation
 
